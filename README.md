@@ -9,6 +9,7 @@
 
 
 **Интеграции**
+
 ![REST API](https://img.shields.io/badge/-REST_API-%23FF5733?style=flat-square&logo=rest-api)
 ![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apache-kafka)
 ![DWH](https://img.shields.io/badge/-DWH-%230075A8?style=flat-square&logo=data-explorer)
@@ -17,10 +18,10 @@
 - Планирование спринтов, приоритизация, наставничество аналитиков
 - Контроль выполнения задач, учет технических зависимостей
 - Подготовка к передаче на сопровождение:
-
-  ![Zabbix](https://img.shields.io/badge/-Zabbix-%23D50000?style=flat-square&logo=zabbix)
-  ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana)
-  ![Graylog](https://img.shields.io/badge/-Graylog-%23FF6600?style=flat-square&logo=graylog)
+- Сбор и анализ бизнес-требований, проектирование архитектурных решений, проектирование архитектурных схем и контроль их актуальности. 
+- Участие в отладке и оптимизации систем. 
+- Решение инцидентов, связанных с проектами.
+- Создание инструкций для интеграции с различными системами для группы анализа.
 
 **Back-end**
 
@@ -42,7 +43,10 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-%234785BE?style=flat-square&logo=dbeaver)
+![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana)
+![Graylog](https://img.shields.io/badge/-Graylog-%23FF6600?style=flat-square&logo=graylog)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma)
 ![PlantUML](https://img.shields.io/badge/-PlantUML-%232F4F4F?style=flat-square&logo=plantuml&logoColor=white)
 ![C4 Model](https://img.shields.io/badge/-C4_Model-%2300599C?style=flat-square&logo=diagramsdotnet&logoColor=white)
