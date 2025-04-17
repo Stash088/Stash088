@@ -1,4 +1,5 @@
-## Привет! 👋 я Middle system Analyst
+## Привет! 
+Я Middle system Analyst 👨‍💻
 
 
 ## Навыки
